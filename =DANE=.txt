@@ -1,0 +1,30 @@
+T: Projekt bazy danych
+
+1. Utwórz bazę danych i stronę internetową poprzez którą ta baza będzie obsługiwana. Temat bazy danych należy wybrać w sposób dowolony.
+Może to być np. obsługa sklepu komputerowego. Każdy uczeń musi mieć inny temat - tematy nie mogą się powtórzyć w ramach klasy.
+2. Bazę danych należy utworzyć w SZBD MySQL wykorzystując pakiet XAMPP.
+3. Strona internetowa ma być wykonana w techologii "serverside"
+4. Baza danych ma zawierać tabele, formularze oraz zestaw raportów.
+	a) Bazę można założyć przy pomocy zewnętrznych skryptów, zaś jej obsługa w całości ma odbywać się z poziomu strony interne
+towej poprzez wykorzystanie odpowiednich skryptów PHP
+	b) W celu obsługi bazy danych należy zalogować się poprzez odpowiednią zakładkę na stronie internetowej podając login i hasło -
+konta użytkowników i ich hasła mają się znaleźć w tabelach bazy danych
+	c) Obsługa bazy danych w postaci menu ma zawierać:
+- formularze umożliwiające się dodanie nowych wartości (2)
+- formularze umożliwiające kasowanie danych  (2)
+- formularze umożliwiające aktualizacje danych (3)
+- formularze z walidacją między formularzową (5)
+- formularze w postaci: checkbox, radio button, listy rozwijalnej (5)
+- RAPORTY OPARTE NA JEDNEJ TABELI (2),
+- RAPORTY OPARTE NA WIELU TABELACH (3),
+- RAPORTY W OPARCIU O ZŁĄCZENIA TABEL (4),
+- system uprawnień do obsługi programu bazdodanowego (5)
+
+5. Strona internetowa ma być napisana w języku HTML, z wykorzystaniem CSS, JavaScript, PHP oraz SQL i zawierać następujące elementy:
+	a) Strona główna wraz z podstronami
+	b) Nagłówek strony, menu lewe, menu prawe oraz stopkę strony - formatowanie należy wykonać przy zastosowaniu kaskadowych
+arkuszy stylów. Część środkowa strony ma zawierać aktualności na stronę.
+	c) Strona ma zawierać dowolny skrypt JavaScript wykorzystujący zdarzenie
+	d) Formatowanie strony ma być zawarte w odrębnym pliku css
+	e) Na stronie mają znajdować się pliki graficzne w formacie jpg oraz animacje
+6. Termin oddania gotowego projektu 20 listopada 2021

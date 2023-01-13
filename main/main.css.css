@@ -1,0 +1,196 @@
+.html {
+    width: 100%;
+    margin: 0px;
+
+}
+
+.body {
+    width: 100%;
+    margin: 0px;
+    font-family: Cambria;
+    scroll-behavior: smooth;
+}
+
+.naglowek {
+    background-color: #1c1d21;
+    height: 50px;
+    width: 90%;
+    float: left;
+    text-align: left;
+}
+
+.naglowek img {
+    float: left;
+}
+
+.naglowek p {
+    color: #ddbc6d;
+    font-size: 20px;
+    line-height: 0.5vw;
+}
+
+.naglowek2 {
+    background-color: #1c1d21;
+    height: 50px;
+    width: 5%;
+    float: left;
+    text-align: center;
+}
+
+.naglowek2:hover {
+    background-color: #ddbc6d;
+    transition: background-color .5s;
+}
+
+.naglowek2 a {
+    display: block;
+    height: 50px;
+    color: #ddbc6d;
+    text-decoration: none;
+}
+
+.naglowek2 a:hover {
+    color: black;
+}
+
+
+.czarny_pasek {
+    background-color: #1c1d21;
+    height: 25px;
+    width: 100%;
+}
+
+.lewy {
+    background-color: #1c1d21;
+    width: 15%;
+    height: 1800px;
+    float: left;
+}
+
+.lewy p {
+    text-align: center;
+    font-size: 28px;
+    color: #ddbc6d;
+}
+
+.srodek {
+    background-image: url(https://image.freepik.com/free-vector/floral-royal-background-seamless-pattenr_1284-45982.jpg);
+    width: 74%;
+    height: 1800px;
+    float: left;
+    overflow: auto;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.prawy {
+    background-color: #1c1d21;
+    width: 11%;
+    height: 1800px;
+    float: left;
+}
+
+.socialmedia {
+    float: left;
+    color: #ddbc6d;
+    height: 100px;
+    width: 100%;
+}
+
+.stopkalewy {
+    float: left;
+    background-color: #1c1d21;
+    height: 400px;
+    width: 15%;
+}
+
+.footer {
+    float: left;
+    background-color: #1c1d21;
+    color: #ddbc6d;
+    height: 400px;
+    width: 18.5%;
+    text-align: center;
+}
+
+.footer a{
+    color: #ddbc6d;
+}
+
+.footer input {
+    line-height: 3vw;
+    width: 350px;
+    font-size: 20px;
+    background-color: #1c1d21;
+    color: #ddbc6d;
+    text-align: center;
+    border: 2px solid #ddbc6d;
+}
+
+.li_tag {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.li_small {
+    font-size: 15px;
+    line-height: 3vw;
+}
+
+.li_small:hover {
+    background-color: #ddbc6d;
+    color: #1c1d21;
+    transition: background-color .5s;
+}
+
+
+.footer_loc {
+    float: left;
+    background-color: #1c1d21;
+    color: #ddbc6d;
+    height: 400px;
+    width: 29.5%;
+    text-align: center;
+}
+
+.footer_loc iframe{
+    height: 300px;
+    width: 500px;
+}
+
+/* DATABASE */
+
+.blok {
+    background-color: white;
+    float: left;
+    text-align: center;
+    margin: 15px 26px 15px 25px;
+    border-radius: 40px;
+    width: 300px;
+    height: 550px;
+    line-height: 2.2vw;
+}
+
+.blok h4 {
+    margin: 2px;
+    padding: 2px;
+}
+
+
+.blok img {
+    height: 250px;
+    width: 250px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.blok img:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    z-index: 0;
+    transition-duration: 3s;
+}
